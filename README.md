@@ -10,7 +10,7 @@ This JavaScript utility automatically removes all Arabic Harakat (diacritics) fr
 
 ## Installation
 
-1. **Include the Script in Your HTML File**  
+1. **Include the Script in Your HTML File or Header.html File**  
    Add the following line before the closing `</body>` tag:
    ```html
    <script src="Harakat-Remover.js"></script>
